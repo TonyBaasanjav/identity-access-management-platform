@@ -4,6 +4,7 @@
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/6818/badge)](https://bestpractices.coreinfrastructure.org/projects/6818)
 ![GitHub Repo stars](https://img.shields.io/github/stars/keycloak/keycloak?style=flat)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/keycloak/keycloak)
+![Angular integration](https://pretius.com/blog/keycloak-angular-integration)
 
 
 # Open Source Identity and Access Management
